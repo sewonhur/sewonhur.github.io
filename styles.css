@@ -124,7 +124,7 @@ main {
   display: grid;
   grid-template-columns: minmax(0, 1.4fr) minmax(260px, 0.65fr);
   gap: clamp(2.5rem, 7vw, 6rem);
-  align-items: center;
+  align-items: start;
 }
 
 .eyebrow {
