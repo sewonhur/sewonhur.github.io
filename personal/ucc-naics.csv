@@ -1,0 +1,706 @@
+﻿ucc code,ucc description,commodity code,commodity description,naics code,naics description
+2120,Other nonhealth insurance,5241XX,"Insurance carriers, except direct life",524128,"Other Direct Insurance (except Life, Health, and Medical) Carriers"
+10110,Flour,311210,Flours and malts,311211,Flour Milling
+10120,Prepared Flour Mixes,3118A0,"Cookies, crackers, pastas, and tortillas",311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"
+10210,Cereal,311230,Breakfast cereals,311230,Breakfast Cereal Manufacturing
+10310,Rice,1111B0,"Fresh wheat, corn, rice, and other grains",111160,Rice Farming
+10320,Pasta Cornmeal Oth Cereal Prods,3118A0,"Cookies, crackers, pastas, and tortillas",311824,"Dry Pasta, Dough, and Flour Mixes Manufacturing from Purchased Flour"
+20110,White Bread,311810,Bread and other baked goods,311811,Retail Bakeries
+20210,Bread Other Than White,311810,Bread and other baked goods,311811,Retail Bakeries
+20310,"Fresh Biscuits, Rolls, Muffins",311810,Bread and other baked goods,311811,Retail Bakeries
+20410,Cakes And Cupcakes,311810,Bread and other baked goods,311811,Retail Bakeries
+20510,Cookies,3118A0,"Cookies, crackers, pastas, and tortillas",311821,Cookie and Cracker Manufacturing
+20610,Crackers,3118A0,"Cookies, crackers, pastas, and tortillas",311821,Cookie and Cracker Manufacturing
+20620,Bread And Cracker Products,3118A0,"Cookies, crackers, pastas, and tortillas",311821,Cookie and Cracker Manufacturing
+20710,"Doughnuts,Sweetrolls,Coffecake",311810,Bread and other baked goods,311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing"
+20810,Frozen & Refrig. Bakery Prod.,311810,Bread and other baked goods,311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing"
+20820,"Fresh Pies, Tarts, Turnovers",311810,Bread and other baked goods,311813,"Frozen Cakes, Pies, and Other Pastries Manufacturing"
+30110,Ground Beef Exclude Canned,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+30210,Chuck Roast,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+30310,Round Roast,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+30410,Other Roast,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+30510,Round Steak,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+30610,Sirloin Steak,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+30710,Other Steak,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+30810,Other Beef (Exclude Canned),31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+40110,Bacon,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+40210,Pork Chops,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+40310,Ham (Exclude Canned),31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+40410,Other Pork,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+40510,Pork Sausage,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+40610,Canned Ham,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+50110,Frankfurters,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+50210,"Bologna, Liverwurst, Salami",31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+50310,Other Lunchmeat,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+50410,Lamb And Organ Meats,31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+50900,"Mutton, Goat, Game",31161A,Packaged meat (except poultry),311612,Meat Processed from Carcasses
+60110,Fresh & Frozen Whole Chicken,311615,Packaged poultry,311615,Poultry Processing
+60210,Fresh Or Frozen Chicken Parts,311615,Packaged poultry,311615,Poultry Processing
+60310,Other Poultry,311615,Packaged poultry,311615,Poultry Processing
+70110,Canned Fish And Seafood,311700,Seafood,311710,Seafood Product Preparation and Packaging
+70230,Fresh Fish & Shellfish,311700,Seafood,311710,Seafood Product Preparation and Packaging
+70240,Frozen Fish & Shellfish,311700,Seafood,311710,Seafood Product Preparation and Packaging
+80110,Eggs,112300,Poultry farms,112310,Chicken Egg Production
+90110,Fresh Milk All Types,31151A,Fluid milk and butter,311511,Fluid Milk Manufacturing
+90210,Cream,31151A,Fluid milk and butter,311511,Fluid Milk Manufacturing
+100110,Butter,31151A,Fluid milk and butter,311512,Creamery Butter Manufacturing
+100210,Cheese,311513,Cheese,311513,Cheese Manufacturing
+100410,Ice Cream And Related Products,311520,Ice cream and frozen desserts,311520,Ice Cream and Frozen Dessert Manufacturing
+100510,Other Dairy Products,311514,"Dry, condensed, and evaporated dairy",311514,"Dry, Condensed, and Evaporated Dairy Product Manufacturing"
+110110,Apples,111300,Fresh fruits and tree nuts,111331,Apple Orchards
+110210,Bananas,111300,Fresh fruits and tree nuts,111339,Other Noncitrus Fruit Farming
+110310,Oranges,111300,Fresh fruits and tree nuts,111310,Orange Groves
+110410,Other Fresh Fruits,111300,Fresh fruits and tree nuts,111339,Other Noncitrus Fruit Farming
+110510,Citrus Fruits Excl. Oranges,111300,Fresh fruits and tree nuts,111320,Citrus (except Orange) Groves
+120110,Potatoes,111200,"Fresh vegetables, melons, and potatoes",111211,Potato Farming
+120210,Lettuce,111200,"Fresh vegetables, melons, and potatoes",111219,Other Vegetable (except Potato) and Melon Farming
+120310,Tomatoes,111200,"Fresh vegetables, melons, and potatoes",111219,Other Vegetable (except Potato) and Melon Farming
+120410,Other Fresh Vegetables,111200,"Fresh vegetables, melons, and potatoes",111219,Other Vegetable (except Potato) and Melon Farming
+130110,Frozen Orange Juice,311410,Frozen food,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+130121,Frozen Fruits,311410,Frozen food,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+130122,Frozen Fruit Juices,311410,Frozen food,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+130211,Fresh Fruit Juice,311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+130212,Canned/Bottle Fruit Juice,311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+130310,Canned Fruits,311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+130320,Dried Fruits,311420,Fruit and vegetable preservation,311423,Dried and Dehydrated Food Manufacturing
+140110,Frozen Vegetables,311410,Frozen food,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+140210,Canned Beans,311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+140220,Canned Corn,311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+140230,Canned Vegetables Misc,311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+140310,Other Processed Vegetables,311420,Fruit and vegetable preservation,311422,Specialty Canning
+140320,Other Peas,311420,Fruit and vegetable preservation,311422,Specialty Canning
+140330,Other Beans,311420,Fruit and vegetable preservation,311422,Specialty Canning
+140340,Other Vegetables Misc,311420,Fruit and vegetable preservation,311422,Specialty Canning
+140410,Frozen Vegetable Juices,311410,Frozen food,311411,"Frozen Fruit, Juice, and Vegetable Manufacturing"
+140420,Fresh & Canned Vegetable Juices,311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+150110,Candy And Chewing Gum,311300,"Sugar, candy, and chocolate",311340,Nonchocolate Confectionery Manufacturing
+150211,Sugar,311300,"Sugar, candy, and chocolate",31131,Sugar Manufacturing
+150212,Artificial Sweeteners,311300,"Sugar, candy, and chocolate",325199,All Other Basic Organic Chemical Manufacturing
+150310,Other Sweets,311300,"Sugar, candy, and chocolate",31135,Chocolate and Confectionery Manufacturing
+160110,Margarine,311225,"Refined vegetable, olive, and seed oils",311225,Fats and Oils Refining and Blending
+160211,Fats & Oils,311225,"Refined vegetable, olive, and seed oils",311225,Fats and Oils Refining and Blending
+160212,Salad Dressings,311940,Seasonings and dressings,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"
+160310,Non-Diary Cream Substitutes,31151A,Fluid milk and butter,311511,Fluid Milk Manufacturing
+160320,Peanut Butter,311910,Snack foods,311911,Roasted Nuts and Peanut Butter Manufacturing
+170110,Cola Drinks,312110,"Soft drinks, bottled water, and ice",312111,Soft Drink Manufacturing
+170210,Other Carbonated Drinks,312110,"Soft drinks, bottled water, and ice",312111,Soft Drink Manufacturing
+170310,Roasted Coffee,311920,Coffee and tea,311920,Coffee and Tea Manufacturing
+170410,Instant/Freeze Dried Coffee,311920,Coffee and tea,311920,Coffee and Tea Manufacturing
+170510,Noncarb Frut Flav/Lemade Nonfroz,312110,"Soft drinks, bottled water, and ice",312111,Soft Drink Manufacturing
+170520,Tea,311920,Coffee and tea,311920,Coffee and Tea Manufacturing
+170531,Other Noncarb. Beverages/Ice,312110,"Soft drinks, bottled water, and ice",31211,Soft Drink and Ice Manufacturing
+170532,Bottled Water,312110,"Soft drinks, bottled water, and ice",312112,Bottled Water Manufacturing
+170533,Sports Drinks,312110,"Soft drinks, bottled water, and ice",312111,Soft Drink Manufacturing
+180110,Soup,311420,Fruit and vegetable preservation,311422,Specialty Canning
+180210,Frozen Meals,311410,Frozen food,311422,Specialty Canning
+180220,Froz/Prep. Food Oth Than Meals,311410,Frozen food,311422,Specialty Canning
+180310,Potato Chips And Other Snacks,311910,Snack foods,311919,Other Snack Food Manufacturing
+180320,Nuts,311910,Snack foods,311911,Roasted Nuts and Peanut Butter Manufacturing
+180410,Salt/Other Seasonings & Spices,311940,Seasonings and dressings,311942,Spice and Extract Manufacturing
+180420,"Olives, Pickles, Relishes",311420,Fruit and vegetable preservation,311421,Fruit and Vegetable Canning
+180510,Sauces And Gravies,311940,Seasonings and dressings,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"
+180520,Other Condiments,311940,Seasonings and dressings,311941,"Mayonnaise, Dressing, and Other Prepared Sauce Manufacturing"
+180611,Prepared Salads,311990,All other foods,311991,Perishable Prepared Food Manufacturing
+180612,Prepared Desserts,311990,All other foods,311999,All Other Miscellaneous Food Manufacturing
+180620,Baby Food,311990,All other foods,311422,Specialty Canning
+180710,Misc. Prepared Foods,311990,All other foods,311999,All Other Miscellaneous Food Manufacturing
+180720,Vitamin Supplement,325411,Medicinal and botanical ingredients,325411,Medicinal and Botanical Manufacturing
+190111,Lunch At Fast Food,722211,Limited-service restaurants,722513,Limited-Service Restaurants
+190112,Lunch At Full Service,722110,Full-service restaurants,722511,Full-Service Restaurants
+190113,Lunch At Vending Machine,722A00,All other food and drinking places,722515,Snack and Nonalcoholic Beverage Bars
+190114,Lunch At Employer/School,722A00,All other food and drinking places,722514,"Cafeterias, Grill Buffets, and Buffets"
+190211,Dinner At Fast Food,722211,Limited-service restaurants,722513,Limited-Service Restaurants
+190212,Dinner At Full Service,722110,Full-service restaurants,722511,Full-Service Restaurants
+190213,Dinner At Vending Machine,722A00,All other food and drinking places,722515,Snack and Nonalcoholic Beverage Bars
+190214,Dinner At Employer/School,722A00,All other food and drinking places,722514,"Cafeterias, Grill Buffets, and Buffets"
+190311,Snacks At Fast Food,722211,Limited-service restaurants,722513,Limited-Service Restaurants
+190312,Snacks At Full Service,722110,Full-service restaurants,722511,Full-Service Restaurants
+190313,Snacks At Vend Machine,722A00,All other food and drinking places,722515,Snack and Nonalcoholic Beverage Bars
+190314,Snacks At Employer/School,722A00,All other food and drinking places,722514,"Cafeterias, Grill Buffets, and Buffets"
+190321,Breakfast At Fast Food,722211,Limited-service restaurants,722513,Limited-Service Restaurants
+190322,Breakfast At Full Service,722110,Full-service restaurants,722511,Full-Service Restaurants
+190323,Breakfast At Vending Machine,722A00,All other food and drinking places,722515,Snack and Nonalcoholic Beverage Bars
+190324,Breakfast At Employer/School,722A00,All other food and drinking places,722514,"Cafeterias, Grill Buffets, and Buffets"
+190901,Food or board at school,722A00,All other food and drinking places,722514,"Cafeterias, Grill Buffets, and Buffets"
+190902,Food And Bev For Catered Affairs,722A00,All other food and drinking places,722320,Caterers
+190903,Food on out-of-town trips,722A00,All other food and drinking places,7225,Restaurants and Other Eating Places
+190904,Food prepared by consumer unit on out-of-town trips,445000,Food and beverage stores,4451,Grocery Stores
+200111,Beer And Alc At Home,312120,Breweries and beer,312120,Breweries
+200112,Non Alcoholic Beer,312120,Breweries and beer,312120,Breweries
+200210,Whiskey At Home,312140,Distilleries and spirits,312140,Distilleries
+200310,Wine At Home,312130,Wineries and wine,312130,Wineries
+200410,Other Alcoholic Bev. At Home,445000,Food and beverage stores,445310,"Beer, Wine, and Liquor Stores"
+200511,Beer At Fast Food,722211,Limited-service restaurants,722513,Limited-Service Restaurants
+200512,Beer At Full Service,722110,Full-service restaurants,722511,Full-Service Restaurants
+200513,Beer At Vending Machine,312120,Breweries and beer,312120,Breweries
+200514,Beer At Employer,312120,Breweries and beer,312120,Breweries
+200515,Beer At Board,312120,Breweries and beer,312120,Breweries
+200516,Beer At Catered Affairs,312120,Breweries and beer,312120,Breweries
+200521,Wine At Fast Food,722211,Limited-service restaurants,722513,Limited-Service Restaurants
+200522,Wine At Full Service,722110,Full-service restaurants,722511,Full-Service Restaurants
+200523,Wine At Vending Machine,312130,Wineries and wine,312130,Wineries
+200524,Wine At Employer,312130,Wineries and wine,312130,Wineries
+200525,Wine At Board,312130,Wineries and wine,312130,Wineries
+200526,Wine At Catered Affairs,312130,Wineries and wine,312130,Wineries
+200531,Alc. Bev Exc Beer/Wine Fast Fd,722211,Limited-service restaurants,722513,Limited-Service Restaurants
+200532,Alc. Bev Exc B/W Full Serv,722110,Full-service restaurants,722511,Full-Service Restaurants
+200533,Alc. Bev B/W Vend Mach,445000,Food and beverage stores,445310,"Beer, Wine, and Liquor Stores"
+200534,Alc Bev Exc B/W At Emp,445000,Food and beverage stores,445310,"Beer, Wine, and Liquor Stores"
+200535,Alc Bev Exc B/W At Board,445000,Food and beverage stores,445310,"Beer, Wine, and Liquor Stores"
+200536,Oth Alc. Bev Away From Home,445000,Food and beverage stores,445310,"Beer, Wine, and Liquor Stores"
+200900,Alcoholic beverages purchased on trips,445000,Food and beverage stores,445310,"Beer, Wine, and Liquor Stores"
+210110,Rent,531HST,Tenant-occupied housing,531110,Lessors of Residential Buildings and Dwellings
+210210,Lodging on out-of-town trips,721000,Hotels and campgrounds,7211,Traveler Accommodation
+210310,Housing while attending school,531HST,Tenant-occupied housing,721310,"Rooming and Boarding Houses, Dormitories, and Workers' Camps"
+210901,Ground rent,531HST,Tenant-occupied housing,531190,Lessors of Other Real Estate Property
+210902,Ground rent,531HST,Tenant-occupied housing,531190,Lessors of Other Real Estate Property
+220121,Homeowners Insurance Ownd,230302,Residential building repair and maintanence,524126,Direct Property and Casualty Insurance Carriers
+220122,Homeowners insurance,230302,Residential building repair and maintanence,524126,Direct Property and Casualty Insurance Carriers
+220211,Property taxes,taxes,#N/A,taxes,#N/A
+220212,Property taxes,taxes,#N/A,taxes,#N/A
+220311,Mortgage interest,misc,#N/A,misc,#N/A
+220312,Mortgage interest,misc,#N/A,misc,#N/A
+220313,"Interest paid, home equity loan",misc,#N/A,misc,#N/A
+220901,Parking,812900,"Pet care, photofinishing, parking and other sundry services",812930,Parking Lots and Garages
+220902,Parking,812900,"Pet care, photofinishing, parking and other sundry services",812930,Parking Lots and Garages
+230112,Painting and papering,325510,Paints and coatings,325510,Paint and Coating Manufacturing
+230113,Plumbing and water heating,332913,"Metal plumbing drains, faucets, valves, and other fittings",332913,Plumbing Fixture Fitting and Trim Manufacturing
+230114,"Heat, a/c, electrical work",333415,"Air conditioning, refrigeration, and warm air heating equipment",33341,"Ventilation, Heating, Air-Conditioning, and Commercial Refrigeration Equipment Manufacturing"
+230115,Roofing and gutters,230302,Residential building repair and maintanence,238160,Roofing Contractors
+230117,"Dishwashers (built-in), garbage disposals, range",335221,Home cooking appliances,335220,Major Household Appliance Manufacturing
+230118,Repl Dishwash/Disp/Hood Ownd,335221,Home cooking appliances,335220,Major Household Appliance Manufacturing
+230141,Repair of built-in appliances,811400,Household goods repair,811412,Appliance Repair and Maintenance
+230142,Repair of built-in appliances,811400,Household goods repair,811412,Appliance Repair and Maintenance
+230150,Repair or maintenance services,230302,Residential building repair and maintanence,811412,Appliance Repair and Maintenance
+230151,Other repair and maintenance services,230302,Residential building repair and maintanence,811412,Appliance Repair and Maintenance
+230152,Repair and remodeling services,230302,Residential building repair and maintanence,236118,Residential Remodelers
+230901,Property management,230302,Residential building repair and maintanence,531311,Residential Property Managers
+230902,Property management,230302,Residential building repair and maintanence,531311,Residential Property Managers
+240111,"Paint, wallpaper, and supplies",325510,Paints and coatings,325510,Paint and Coating Manufacturing
+240112,Paint/Wallpaper And Supp Ownd,325510,Paints and coatings,325510,Paint and Coating Manufacturing
+240113,"Paints, wallpaper, supplies",325510,Paints and coatings,325510,Paint and Coating Manufacturing
+240121,Equip For Paint/Wpaper Rntr,325510,Paints and coatings,325510,Paint and Coating Manufacturing
+240122,Equip For Paint/Wpaper Ownd,325510,Paints and coatings,325510,Paint and Coating Manufacturing
+240123,Tools and equipment for painting and,325510,Paints and coatings,325510,Paint and Coating Manufacturing
+240211,"Mat For Panl/Roof/Siding,Etc Rntr",230302,Residential building repair and maintanence,324122,Asphalt Shingle and Coating Materials Manufacturing
+240212,"Materials for plaster., panel., siding, windows,",230302,Residential building repair and maintanence,324122,Asphalt Shingle and Coating Materials Manufacturing
+240213,Materials and equipment for roof and gutters,230302,Residential building repair and maintanence,324122,Asphalt Shingle and Coating Materials Manufacturing
+240214,"Materials for plastering, paneling, roofing,",230302,Residential building repair and maintanence,324122,Asphalt Shingle and Coating Materials Manufacturing
+240221,"Mat For Patio,Masonry,Etc Rntr",230302,Residential building repair and maintanence,238990,All Other Specialty Trade Contractors
+240222,"Mat For Patio,Masonry,Etc Ownd",230302,Residential building repair and maintanence,238990,All Other Specialty Trade Contractors
+240223,"Material for patio, walk, fence, drive,",230302,Residential building repair and maintanence,238990,All Other Specialty Trade Contractors
+240311,Plumbing Supp/Equip Rntr,332913,"Metal plumbing drains, faucets, valves, and other fittings",332913,Plumbing Fixture Fitting and Trim Manufacturing
+240312,Plumbing supplies and equipment,332913,"Metal plumbing drains, faucets, valves, and other fittings",332913,Plumbing Fixture Fitting and Trim Manufacturing
+240313,Plumbing supplies and equipment,332913,"Metal plumbing drains, faucets, valves, and other fittings",332913,Plumbing Fixture Fitting and Trim Manufacturing
+240321,"Electrical supplies, heating and cooling",333414,Heating equipment other than warm air furnaces,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+240322,"Electrical supplies, heating and cooling",333414,Heating equipment other than warm air furnaces,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+240323,"Electrical supplies, heating and cooling",333414,Heating equipment other than warm air furnaces,333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+250110,Fuel oil,324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250111,Fuel oil (renter),324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250112,Fuel oil (owned home),324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250113,Fuel oil (owned vacation),324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250114,Fuel Oil Rntv,324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250210,Bottled and tank gas,324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250211,"Gas, Bottled Or Tank Rntr",324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250212,"Gas, btld/tank (owned home)",324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250213,"Gas,Bottled Or Tank - Ownv & Rvs",324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250214,"Gas, Bottled Or Tank Rntv",324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+250220,Coal,324190,Other petroleum and coal products,324199,All Other Petroleum and Coal Products Manufacturing
+250900,Miscellaneous fuels,324190,Other petroleum and coal products,324199,All Other Petroleum and Coal Products Manufacturing
+250911,"Coal, wood, other fuels (renter)",324190,Other petroleum and coal products,324199,All Other Petroleum and Coal Products Manufacturing
+250912,Other Fuels Ownd,324190,Other petroleum and coal products,324199,All Other Petroleum and Coal Products Manufacturing
+250913,"Coal, wood, other fuels (owned vacation)",324190,Other petroleum and coal products,324199,All Other Petroleum and Coal Products Manufacturing
+250914,Other Fuels Rntv,324190,Other petroleum and coal products,324199,All Other Petroleum and Coal Products Manufacturing
+260110,Electricity,221100,Electricity,2211,"Electric Power Generation, Transmission and Distribution"
+260111,Electricity Rntr,221100,Electricity,2211,"Electric Power Generation, Transmission and Distribution"
+260112,Electricity Ownd,221100,Electricity,2211,"Electric Power Generation, Transmission and Distribution"
+260113,Electricity (owned vacation),221100,Electricity,2211,"Electric Power Generation, Transmission and Distribution"
+260114,Electricity Rntv,221100,Electricity,2211,"Electric Power Generation, Transmission and Distribution"
+260210,Natural gas,221200,Natural gas,221210,Natural Gas Distribution
+260211,Utility--Natural Gas Rntr,221200,Natural gas,221210,Natural Gas Distribution
+260212,Utility--Natural Gas Ownd,221200,Natural gas,221210,Natural Gas Distribution
+260213,Utility-natural gas (owned vacation),221200,Natural gas,221210,Natural Gas Distribution
+260214,Utility--Natural Gas Rntv,221200,Natural gas,221210,Natural Gas Distribution
+270000,Telephone services,517210,Wireless telecommunications,517311,Wired Telecommunications Carriers
+270102,Cellular Phone Service [1],517210,Wireless telecommunications,517312,Wireless Telecommunications Carriers (except Satellite)
+270104,Phone cards,517210,Wireless telecommunications,517,Telecommunications
+270106,Residential Telephone Incl Voip,517210,Wireless telecommunications,51731,Wired and Wireless Telecommunications Carriers
+270211,Water/sewer maint. (renter),221300,Drinking water and wastewater treatment,2213,"Water, Sewage and Other Systems"
+270212,Water And Sewerage Maint Ownd,221300,Drinking water and wastewater treatment,2213,"Water, Sewage and Other Systems"
+270213,Water And Sewerage Maint Ownv,221300,Drinking water and wastewater treatment,2213,"Water, Sewage and Other Systems"
+270214,Water And Sewerage Maint Rntv,221300,Drinking water and wastewater treatment,2213,"Water, Sewage and Other Systems"
+270310,Cable/Satellite/Com Antenna Serv,517A00,"Satellite, telecommunications resellers, and all other telecommunications",517410,Satellite Telecommunications
+270311,Satellite Radio Service,517A00,"Satellite, telecommunications resellers, and all other telecommunications",517410,Satellite Telecommunications
+270411,Trash/Garbage Collect Rntr,562000,Waste management and remediation,562111,Solid Waste Collection
+270412,Trash/garb. coll. (owned home),562000,Waste management and remediation,562111,Solid Waste Collection
+270413,Trash/Garbage Collect Ownv,562000,Waste management and remediation,562111,Solid Waste Collection
+270414,Trash/Garbage Collect Rntv,562000,Waste management and remediation,562111,Solid Waste Collection
+270901,Septic tank clean. (renter),562000,Waste management and remediation,562991,Septic Tank and Related Services
+270902,Septic Tank Cleaning Ownd,562000,Waste management and remediation,562991,Septic Tank and Related Services
+270903,Septic tank clean. (owned vacation),562000,Waste management and remediation,562991,Septic Tank and Related Services
+280110,Bathroom Linens,314120,Curtains and linens,314120,Curtain and Linen Mills
+280120,Bedroom Linens,314120,Curtains and linens,314120,Curtain and Linen Mills
+280140,Kitchen/Dining Room/Othr Linens,314120,Curtains and linens,314120,Curtain and Linen Mills
+280210,Curtains and draperies,314120,Curtains and linens,314120,Curtain and Linen Mills
+280220,Slipcovers/Decorative Pillows,314120,Curtains and linens,314120,Curtain and Linen Mills
+290110,Mattress And Springs,337900,"Mattresses, blinds and shades",337910,Mattress Manufacturing
+290120,Other Bedroom Furniture,337121,Home furniture - upholstered,33712,Household and Institutional Furniture Manufacturing
+290210,Sofas,337121,Home furniture - upholstered,337121,Upholstered Household Furniture Manufacturing
+290310,Living room chairs,337122,"Home furniture - wood, nonupholstered",337122,Nonupholstered Wood Household Furniture Manufacturing
+290320,Living Room Tables,337122,"Home furniture - wood, nonupholstered",337122,Nonupholstered Wood Household Furniture Manufacturing
+290410,Kitchen/Dining Room Furniture,337122,"Home furniture - wood, nonupholstered",33712,Household and Institutional Furniture Manufacturing
+290420,Infants furniture,337122,"Home furniture - wood, nonupholstered",33712,Household and Institutional Furniture Manufacturing
+290430,Outdoor Furniture,33712N,"Home furniture - Cabinets and non-wood, nonupholstered",337125,Household Furniture (except Wood and Metal) Manufacturing
+290440,"Wall Units, Cabinets, Occas Furn",337110,Wood kitchen cabinets and countertops,337110,Wood Kitchen Cabinet and Countertop Manufacturing
+300111,Purch/Inst Refrig/Freezer Rntr,335222,Home refrigerators and freezers,335220,Major Household Appliance Manufacturing
+300112,Purch/Inst Refrig/Freezer Ownd,335222,Home refrigerators and freezers,335220,Major Household Appliance Manufacturing
+300216,Purch/Inst Clths Washr/Dryr Rntr,335224,Home laundry machines,335220,Major Household Appliance Manufacturing
+300217,Purch/Inst Clths Washr/Dryr Ownd,335224,Home laundry machines,335220,Major Household Appliance Manufacturing
+300311,"Cooking stoves, ovens (renter)",335221,Home cooking appliances,335220,Major Household Appliance Manufacturing
+300312,"Cooking stoves, ovens (owned home)",335221,Home cooking appliances,335220,Major Household Appliance Manufacturing
+300321,Microwave ovens (renter),335221,Home cooking appliances,335220,Major Household Appliance Manufacturing
+300322,Microwave Ovens Ownd,335221,Home cooking appliances,335220,Major Household Appliance Manufacturing
+300331,Purch/Inst Port Dishwasher Rntr,335228,"Major home appliances (except ovens, stoves, refrigerators and laundry machines)",335220,Major Household Appliance Manufacturing
+300332,Purch/Inst Port Dishwasher Ownd,335228,"Major home appliances (except ovens, stoves, refrigerators and laundry machines)",335220,Major Household Appliance Manufacturing
+300411,Purch/Inst Window A/C Rntr,333415,"Air conditioning, refrigeration, and warm air heating equipment",333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+300412,Window air conditioners (owned home),333415,"Air conditioning, refrigeration, and warm air heating equipment",333415,Air-Conditioning and Warm Air Heating Equipment and Commercial and Industrial Refrigeration Equipment Manufacturing
+300900,Miscellaneous household appliances,335210,Small electrical appliances,335210,Small Electrical Appliance Manufacturing
+310140,Televisions,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310210,Vcrs/Video Disc Players,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310220,"Video cassettes, tapes, and discs",334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310231,Video game software,511200,Software,334614,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+310232,Video Game Hardware/ Accessories,339930,"Dolls, toys, and games",339930,"Doll, Toy, and Game Manufacturing"
+310241,Streaming Video Files,512100,Movies and film,5121,Motion Picture and Video Industries
+310242,Downloading Video Files,512100,Movies and film,5121,Motion Picture and Video Industries
+310243,"Rental, streaming, downloading video",512100,Movies and film,5121,Motion Picture and Video Industries
+310312,Phonographs,334610,"External hard drives, CDs, other storage media",334614,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+310314,Personal digital audio players,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310315,Digital Media Players & Recorders,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310316,Radios/Speakers/Sound Comp Systms,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310331,Misc Sound Equipment,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310332,Sound Equip Accessories,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310333,Accessories and other sound equipment,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310334,Satellite dishes,517A00,"Satellite, telecommunications resellers, and all other telecommunications",238290,Other Building Equipment Contractors
+310335,Misc Video Equipment,334300,Audio and video equipment,334310,Audio and Video Equipment Manufacturing
+310340,"CDs, records, audio tapes",334300,Audio and video equipment,334614,"Software and Other Prerecorded Compact Disc, Tape, and Record Reproducing"
+310350,"Streaming, downloading audio",512200,Sound recording,518210,"Data Processing, Hosting, and Related Services"
+310400,"Applications, games, ringtones for handheld devices",517210,Wireless telecommunications,511210,Software Publishers
+310900,Access. For Electronic Equip.,423600,Household appliances and electrical and electronic goods,4236,Household Appliances and Electrical and Electronic Goods Merchant Wholesalers
+320110,"Room size rugs and other floor covering, nonpermanen",314110,Carpets and rugs,314110,Carpet and Rug Mills
+320111,Floor Coverings (Non-Perm.),314110,Carpets and rugs,314110,Carpet and Rug Mills
+320120,Window Coverings,314120,Curtains and linens,314120,Curtain and Linen Mills
+320130,Infants equipment,335210,Small electrical appliances,337125,Household Furniture (except Wood and Metal) Manufacturing
+320140,Laundry And Cleaning Equip.,335224,Home laundry machines,335210,Small Electrical Appliance Manufacturing
+320150,Outdoor equipment,335221,Home cooking appliances,335210,Small Electrical Appliance Manufacturing
+320221,Lamps/Light Fixtures/Ceiling Fans,335120,Light fixtures,335210,Small Electrical Appliance Manufacturing
+320232,Telephones and accessories,334210,Telephones,334210,Telephone Apparatus Manufacturing
+320233,Clocks and other household decorative items,33451A,"Watches, clocks, and other measuring and controlling devices",442299,All Other Home Furnishings Stores
+320330,Flatware,332200,Cutlery and handtools,332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"
+320345,"Dinnerware, glassware, serving pieces",332200,Cutlery and handtools,327215,Glass Product Manufacturing Made of Purchased Glass
+320370,Nonelectric Cookware,332200,Cutlery and handtools,332215,"Metal Kitchen Cookware, Utensil, Cutlery, and Flatware (except Precious) Manufacturing"
+320380,Tableware/Non-Elec. Kitware,332200,Cutlery and handtools,327110,"Pottery, Ceramics, and Plumbing Fixture Manufacturing"
+320410,Lawn and garden equipment,333112,Lawn and garden equipment,333112,Lawn and Garden Tractor and Home Lawn and Garden Equipment Manufacturing
+320420,Power Tools,333991,Power tools,333991,Power-Driven Handtool Manufacturing
+320430,Other Hardware,332500,"Metal hinges, keys, lock, and other hardware",332510,Hardware Manufacturing
+320511,Electric floor cleaning equipment,335210,Small electrical appliances,335210,Small Electrical Appliance Manufacturing
+320512,Sewing machines,335210,Small electrical appliances,335210,Small Electrical Appliance Manufacturing
+320521,Small Electric Kitchen Appliances,335210,Small electrical appliances,335210,Small Electrical Appliance Manufacturing
+320522,Portable Heating/Cooling Equip,333414,Heating equipment other than warm air furnaces,335210,Small Electrical Appliance Manufacturing
+320611,Constrct Mat-Rntr/Udr Cn/Sec Hm,444000,Building material and garden equipment and supplies dealers,23611,Residential Building Construction
+320612,"Material for insulation, other maintenance and",444000,Building material and garden equipment and supplies dealers,326140,Polystyrene Foam Product Manufacturing
+320613,"Material for insulation, other maintenance",444000,Building material and garden equipment and supplies dealers,326140,Polystyrene Foam Product Manufacturing
+320624,Flooring Inst/Rep/Repl Rntr,230302,Residential building repair and maintanence,238330,Flooring Contractors
+320625,"Flooring installation, repair, replacement",230302,Residential building repair and maintanence,238330,Flooring Contractors
+320626,"Flooring installation, repair, replacement",230302,Residential building repair and maintanence,238330,Flooring Contractors
+320631,Lndscping Mat-Rntr/Udr Cn/Sc Hm,325310,Fertilizers,325314,Fertilizer (Mixing Only) Manufacturing
+320632,Landscaping Materials Ownd,325310,Fertilizers,325314,Fertilizer (Mixing Only) Manufacturing
+320901,Office furniture for home use,33721A,Office furniture and custom architectural woodwork and millwork,3372,Office Furniture (including Fixtures) Manufacturing
+320902,Hand Tools,332200,Cutlery and handtools,333991,Power-Driven Handtool Manufacturing
+320903,"Indoor Plants, Fresh Flowers",111400,"Greenhouse crops, mushrooms, nurseries, and flowers",111422,Floriculture Production
+320904,Closet and storage items,33712N,"Home furniture - Cabinets and non-wood, nonupholstered",33712,Household and Institutional Furniture Manufacturing
+320905,Misc. Household Equip/Parts,335210,Small electrical appliances,335210,Small Electrical Appliance Manufacturing
+330110,Soaps And Detergents,325610,Soap and cleaning compounds,325611,Soap and Other Detergent Manufacturing
+330210,Other Laundry /Cleaning Prods.,325610,Soap and cleaning compounds,325611,Soap and Other Detergent Manufacturing
+330310,Paper Towels/Napkins/Toilet Ti,322291,"Sanitary paper (tissues, napkins, diapers, etc.)",322121,Paper (except Newsprint) Mills
+330410,"Stationery, Giftwrap, Etc.",322230,Stationery,322230,Stationery Product Manufacturing
+330510,Misc Household Products,326190,Other plastic products,423220,Home Furnishing Merchant Wholesalers
+330511,Termite/pest control products,325320,Pesticides,325320,Pesticide and Other Agricultural Chemical Manufacturing
+330610,Lawn And Garden Supplies,325310,Fertilizers,325314,Fertilizer (Mixing Only) Manufacturing
+340110,Postage,491000,Postal service,491110,Postal Service
+340120,Delivery Services,492000,Couriers and messengers,492110,Couriers and Express Delivery Services
+340210,Babysitting/Childcare,624400,Child day care,624410,Child Day Care Services
+340310,Domestic Service,814000,Household employees,814110,Private Households
+340410,"Gardening, lawn care service",561700,Buildings and dwellings services,561730,Landscaping Services
+340420,Water Softening Service,221300,Drinking water and wastewater treatment,221310,Water Supply and Irrigation Systems
+340510,"Moving, Storage,Freight",493000,Warehousing,493,Warehousing and Storage
+340520,"Household laundry and dry cleaning, sent out",812300,Dry-cleaning and laundry,812320,Drycleaning and Laundry Services (except Coin-Operated)
+340530,"Coin-Op Hshld Lndry, Dry Cln",812300,Dry-cleaning and laundry,812310,Coin-Operated Laundries and Drycleaners
+340610,Repair Of Tv/Radio/Sound Equip,811200,Electronic equipment repair and maintenance,811211,Consumer Electronics Repair and Maintenance
+340620,Repair Of Household Appliances,811400,Household goods repair,811412,Appliance Repair and Maintenance
+340630,Reupholstery Of Furniture,811400,Household goods repair,811420,Reupholstery and Furniture Repair
+340901,"Rental/Repair-Tools,Lawn/Garden",811400,Household goods repair,811411,Home and Garden Equipment Repair and Maintenance
+340902,Rental Of Televisions,532A00,Consumer goods and general rental centers,532210,Consumer Electronics and Appliances Rental
+340903,Other home services,561700,Buildings and dwellings services,532289,All Other Consumer Goods Rental
+340904,Rental Of Furniture,532A00,Consumer goods and general rental centers,532289,All Other Consumer Goods Rental
+340905,Rental Of Vcr/Radio/Sound Equip,532A00,Consumer goods and general rental centers,532210,Consumer Electronics and Appliances Rental
+340906,"Care for elderly, invalids, handicapped, etc.",621600,Home healthcare,624120,Services for the Elderly and Persons with Disabilities
+340907,Rental Of Household Equipment,532A00,Consumer goods and general rental centers,5322,Consumer Goods Rental
+340908,Rntl Off Equip Non-Bus Use,532400,Commercial equipment rental,532420,Office Machinery and Equipment Rental and Leasing
+340910,Adult Day Care Centers,623A00,Nursing and community care facilities,624120,Services for the Elderly and Persons with Disabilities
+340911,Mngmt/Spec Ser/Security Ownd,561900,Other support services,5616,Investigation and Security Services
+340912,Management and upkeep services for security,561900,Other support services,5616,Investigation and Security Services
+340913,Repair of miscellaneous household equipment and,811400,Household goods repair,811412,Appliance Repair and Maintenance
+340914,Services for termite/pest control,561700,Buildings and dwellings services,561710,Exterminating and Pest Control Services
+340915,Home security system service fee,561600,Investigation and security,561621,Security Systems Services (except Locksmiths)
+350110,Tenants insurance,230302,Residential building repair and maintanence,524126,Direct Property and Casualty Insurance Carriers
+360110,Mens suits,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360120,Mens Sportcoats/Tailored Jackets,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360210,Mens coats and jackets,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360311,Mens Underwear,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360312,Mens Hosiery,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360320,Mens Nightwear/Loungewear,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360330,Mens accessories,315000,Clothing,315990,Apparel Accessories and Other Apparel Manufacturing
+360350,Mens active sportswear (thru Q20191),315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360360,Mens Swimwear,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360420,Mens Sweaters/Shirts/Vests,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360513,Mens pants and shorts,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+360901,Mens Uniforms,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+360902,Mens Costumes,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+370110,Boys Coats And Jackets,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370125,Boys Sweaters/Shirts/Vests,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370211,Boys underwear,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370212,Boys nightwear,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370213,Boys hosiery,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370220,Boys accessories,315000,Clothing,315990,Apparel Accessories and Other Apparel Manufacturing
+370311,"Boys Suits, Sportcoats,Vests",315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370314,Boys pants and shorts,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370360,Boys Swimwear,315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+370902,Boys costumes,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+370903,Boys uniforms,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+370904,Boys active sportswear (thru Q20191),315000,Clothing,315220,Men’s and Boys’ Cut and Sew Apparel Manufacturing
+380110,Womens coats and jackets,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380210,Womens Dresses,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380311,"Womens Sportcoats, Tail. Jkts",315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380315,"Womens sweaters, shirts, tops, vests",315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380320,Womens skirts,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380333,Womens pants and shorts,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380340,Womens active sportswear (thru Q20191),315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380360,Womens Swimwear,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380410,Womens Sleepwear,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380420,Womens Undergarments,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380430,Womens Hosiery,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380510,Womens suits,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+380901,Womens accessories,315000,Clothing,315990,Apparel Accessories and Other Apparel Manufacturing
+380902,Womens Uniforms,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+380903,Womens Costumes,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+390110,Girls coats and jackets,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390120,Girls dresses and suits,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390210,Girls Shirts/Blouses/Sweaters,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390223,"Girls Skirts, Pants, And Shorts",315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390230,Girls active sportswear (thru Q20191),315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390310,Girls underwear and sleepwear,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390321,Girls hosiery,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390322,Girls Accessories,315000,Clothing,315990,Apparel Accessories and Other Apparel Manufacturing
+390360,Girls swimwear (new UCC Q20192),315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+390901,Girls Uniforms,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+390902,Girls costumes,315000,Clothing,315280,Other Cut and Sew Apparel Manufacturing
+400110,Mens footwear,316000,Leather,316210,Footwear Manufacturing
+400210,Boys footwear,316000,Leather,316210,Footwear Manufacturing
+400220,Girls footwear,316000,Leather,316210,Footwear Manufacturing
+400310,Womens footwear,316000,Leather,316210,Footwear Manufacturing
+410110,"Infant coat, jacket, snowsuit",315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+410120,"Infant dresses, outerwear",315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+410130,Infant Undergarments,315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+410140,"Infant Nightwear, Loungewear",315000,Clothing,315240,"Women’s, Girls’, and Infants’ Cut and Sew Apparel Manufacturing"
+410901,Infant accessories,315000,Clothing,315990,Apparel Accessories and Other Apparel Manufacturing
+420115,Sewing/Ndlwrk/Quilt Matrls/Items,315000,Clothing,451130,"Sewing, Needlework, and Piece Goods Stores"
+430110,Watches,33451A,"Watches, clocks, and other measuring and controlling devices",448310,Jewelry Stores
+430120,Jewelry,339910,Jewelry and silverware,339910,Jewelry and Silverware Manufacturing
+430130,Luggage,316000,Leather,3169,Other Leather and Allied Product Manufacturing
+440110,"Shoe Repair, Oth Shoe Service",811400,Household goods repair,811430,Footwear and Leather Goods Repair
+440120,Coin-operated apparel laundry and dry cleaning,812300,Dry-cleaning and laundry,812310,Coin-Operated Laundries and Drycleaners
+440130,"Alteration, repair and tailoring of apparel and",811400,Household goods repair,811490,Other Personal and Household Goods Repair and Maintenance
+440140,Clothing rental,532A00,Consumer goods and general rental centers,532281,Formal Wear and Costume Rental
+440150,Watch and jewelry repair,33451A,"Watches, clocks, and other measuring and controlling devices",811490,Other Personal and Household Goods Repair and Maintenance
+440210,Apparel laundry and dry cleaning not coin-operated,812300,Dry-cleaning and laundry,812320,Drycleaning and Laundry Services (except Coin-Operated)
+440900,Clothing Storage Outside The Home,493000,Warehousing,493110,General Warehousing and Storage
+450110,New cars,336111,Automobiles,336111,Automobile Manufacturing
+450116,Trade-In Allowance/New Cars [1],336111,Automobiles,336111,Automobile Manufacturing
+450210,New trucks,336112,"Pickup trucks, vans, and SUVs",336112,Light Truck and Utility Vehicle Manufacturing
+450216,Trade-In Allow/New Trucks [1],336112,"Pickup trucks, vans, and SUVs",336112,Light Truck and Utility Vehicle Manufacturing
+450220,New Motorcycles,336991,"Motorcycle, bicycle, and parts",336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+450226,Trade-In Allow/New Motorcycles [1],336991,"Motorcycle, bicycle, and parts",336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+450350,Car/truck lease payments,336111,Automobiles,3361,Motor Vehicle Manufacturing
+450351,Extra fees for car/truck lease,532100,Vehicle rental and leasing,5321,Automotive Equipment Rental and Leasing
+450352,Tradein Allow For Car/Truck Lease,336111,Automobiles,3361,Motor Vehicle Manufacturing
+450353,Cash downpayment car/truck lease,336111,Automobiles,3361,Motor Vehicle Manufacturing
+450354,Termntion Fee For Car/Truck Lease,532100,Vehicle rental and leasing,5321,Automotive Equipment Rental and Leasing
+450900,Aircraft,336411,Aircraft,336411,Aircraft Manufacturing
+460110,Used Cars,336111,Automobiles,336111,Automobile Manufacturing
+460901,Used Trucks,336112,"Pickup trucks, vans, and SUVs",336112,Light Truck and Utility Vehicle Manufacturing
+460902,Used motorcycles,336991,"Motorcycle, bicycle, and parts",336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+460903,Used Aircraft,336411,Aircraft,336411,Aircraft Manufacturing
+470111,Gasoline [1],324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+470112,Diesel Fuel,324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+470113,Gasoline On Out Of Town Trips [1],324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+470211,Motoroil,324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+470212,Motor oil on out-of-town trips,324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+470220,Coolant/Additives/Brk/Trns Fld,324110,"Gasoline, fuels, and by-products of petroleum refining",324110,Petroleum Refineries
+470311,Electric vehicle charging,221100,Electricity,2211,"Electric Power Generation, Transmission and Distribution"
+480110,Tires Purchased/Replaced/Install,326210,Rubber tires,326211,Tire Manufacturing (except Retreading)
+480212,Vehicle Products & Services,811100,Vehicle repair,8111,Automotive Repair and Maintenance
+480213,"Parts, equipment, and accessories",336310,Vehicle engines and engine parts,336310,Motor Vehicle Gasoline Engine and Engine Parts Manufacturing
+480216,Vehicle Clean Srvcs Incl Carwash,811100,Vehicle repair,811192,Car Washes
+490000,"Misc. auto repair, servicing",811100,Vehicle repair,8111,Automotive Repair and Maintenance
+490110,Body Work And Painting,811100,Vehicle repair,811121,"Automotive Body, Paint, and Interior Repair and Maintenance"
+490300,Vehicle Or Engine Repairs,811100,Vehicle repair,811111,General Automotive Repair
+490311,Motor Tune-Up,811100,Vehicle repair,81111,Automotive Mechanical and Electrical Repair and Maintenance
+490312,"Lube, Oil Change And Oil Filters",811100,Vehicle repair,811191,Automotive Oil Change and Lubrication Shops
+490313,"Frnt End Align, Wheel Bal/Rotat",811100,Vehicle repair,811118,Other Automotive Mechanical and Electrical Repair and Maintenance
+490314,Shock Absorber Replacement,811100,Vehicle repair,811118,Other Automotive Mechanical and Electrical Repair and Maintenance
+490318,Tire Repair And Oth Repair Work,811100,Vehicle repair,811198,All Other Automotive Repair and Maintenance
+490501,Vehicle accessories including labor,811100,Vehicle repair,8111,Automotive Repair and Maintenance
+490900,Auto Repair Service Policy,811100,Vehicle repair,8111,Automotive Repair and Maintenance
+500110,Vehicle Insurance,811100,Vehicle repair,8111,Automotive Repair and Maintenance
+510110,Automobile finance charges,misc,#N/A,misc,#N/A
+510901,Truck finance charges,misc,#N/A,misc,#N/A
+510902,Motorcycle and plane finance charges,misc,#N/A,misc,#N/A
+520110,VEHICLE REGISTRATION STATE/LOCAL,taxes,#N/A,taxes,#N/A
+520111,Vehicle Registration State,taxes,#N/A,taxes,#N/A
+520112,Vehicle Registration Local,taxes,#N/A,taxes,#N/A
+520310,Drivers license,misc,#N/A,misc,#N/A
+520410,Vehicle inspection,811100,Vehicle repair,811198,All Other Automotive Repair and Maintenance
+520516,Auto/truck rental,532100,Vehicle rental and leasing,5321,Automotive Equipment Rental and Leasing
+520517,"Auto/truck rental, out-of-town trips",532100,Vehicle rental and leasing,5321,Automotive Equipment Rental and Leasing
+520531,Prkng Fee In Hme City Excl Rsdnc,812900,"Pet care, photofinishing, parking and other sundry services",812930,Parking Lots and Garages
+520532,"Parking fees, out-of-town trips",812900,"Pet care, photofinishing, parking and other sundry services",812930,Parking Lots and Garages
+520541,Tolls or electronic toll passes,48A000,Scenic and sightseeing transportation and support activities for transportation,488490,Other Support Activities for Road Transportation
+520542,Tolls On Out-Of-Town Trips,48A000,Scenic and sightseeing transportation and support activities for transportation,488490,Other Support Activities for Road Transportation
+520550,Towing charges,48A000,Scenic and sightseeing transportation and support activities for transportation,488410,Motor Vehicle Towing
+520901,Docking/Landing Fees,48A000,Scenic and sightseeing transportation and support activities for transportation,488310,Port and Harbor Operations
+520902,Motorcycle rental,532100,Vehicle rental and leasing,532284,Recreational Goods Rental
+520903,Aircraft Rental,532100,Vehicle rental and leasing,532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing"
+520904,Rental noncamper trailer,532100,Vehicle rental and leasing,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+520905,Motorcycle Rental Out-Of-Town,532100,Vehicle rental and leasing,532284,Recreational Goods Rental
+520906,Aircraft Rental/Out-Of-Town Tr,532100,Vehicle rental and leasing,532411,"Commercial Air, Rail, and Water Transportation Equipment Rental and Leasing"
+520907,Boat and trailer rental out-of-town trips,532100,Vehicle rental and leasing,532284,Recreational Goods Rental
+530110,Airline fares,481000,Air transport,481111,Scheduled Passenger Air Transportation
+530210,Intercity bus fares,485000,Passenger ground transport,485210,Interurban and Rural Bus Transportation
+530311,Intracity Mass Transit Fares,485000,Passenger ground transport,48511,Urban Transit Systems
+530312,Local Trans. Out Of Town Trips,485000,Passenger ground transport,48511,Urban Transit Systems
+530411,Taxi fares and limousine services on trips,485000,Passenger ground transport,4853,Taxi and Limousine Service
+530412,Taxi Fares And Limousine Service,485000,Passenger ground transport,4853,Taxi and Limousine Service
+530510,Intercity Train Fares,482000,Rail transport,482111,Line-Haul Railroads
+530901,Ship fares,483000,"Water transport (boats, ships, ferries)",483,Water Transportation
+530902,School Bus,485000,Passenger ground transport,485410,School and Employee Bus Transportation
+540000,Prescription drugs,424200,Drugs and druggists sundries,424210,Drugs and Druggists' Sundries Merchant Wholesalers
+550110,Eyeglasses And Contact Lenses,333314,Optical instruments and lenses,333314,Optical Instrument and Lens Manufacturing
+550210,Over-The-Counter Drugs,424200,Drugs and druggists sundries,424210,Drugs and Druggists' Sundries Merchant Wholesalers
+550310,Topicals And Dressings [1],339113,Surgical appliance and supplies,339113,Surgical Appliance and Supplies Manufacturing
+550320,Medical Equip. For General Use,334510,Electromedical appartuses,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing
+550330,Supportive/Conval Med. Equip.,334510,Electromedical appartuses,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing
+550340,Hearing aids,334510,Electromedical appartuses,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing
+550410,Nonprescrip Vitamins,325411,Medicinal and botanical ingredients,325411,Medicinal and Botanical Manufacturing
+560110,Physicians Services,621100,Physicians,6211,Offices of Physicians
+560210,Dental services,621200,Dentists,6212,Offices of Dentists
+560310,Eyecare services,621300,Healthcare practitioners (except physicians and dentists),621320,Offices of Optometrists
+560330,"Lab tests, x-rays",621500,Medical laboratories,6215,Medical and Diagnostic Laboratories
+560410,Non physician services inside home,621600,Home healthcare,621610,Home Health Care Services
+560420,Non physician services outside home,621400,Outpatient healthcare,6214,Outpatient Care Centers
+570111,Hospital Rooms & Services,622000,Hospitals,622110,General Medical and Surgical Hospitals
+570220,Care in convalescent or nursing home,623A00,Nursing and community care facilities,623110,Nursing Care Facilities (Skilled Nursing Facilities)
+570230,Other medical care services,621600,Home healthcare,6219,Other Ambulatory Health Care Services
+570901,Rental of medical equipment,334510,Electromedical appartuses,532490,Other Commercial and Industrial Machinery and Equipment Rental and Leasing
+570902,Repair Of Medical Equipment,334510,Electromedical appartuses,334510,Electromedical and Electrotherapeutic Apparatus Manufacturing
+570903,Rental Of Suportive/Conval Equip,334510,Electromedical appartuses,532283,Home Health Equipment Rental
+580115,Fee for service health plan (not BCBS),621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580116,Fee For Serv Hlth Pln (Bcbs) [1],621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580311,Health maintenance organization (not BCBS),621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580312,Hlth Maint. Org (Bcbs) [1],621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580401,Long term care insurance (not BCBS),621400,Outpatient healthcare,623,Nursing and Residential Care Facilities
+580402,Long Term Care Ins (Bcbs) [1],621400,Outpatient healthcare,623,Nursing and Residential Care Facilities
+580411,Dental care insurance (not BCBS),621200,Dentists,6212,Offices of Dentists
+580412,Dental Care Ins (Bcbs) [1],621200,Dentists,6212,Offices of Dentists
+580421,Prescript Drug Ins (No Bcbs) [1],424200,Drugs and druggists sundries,424210,Drugs and Druggists' Sundries Merchant Wholesalers
+580422,Prescript Drug Ins (Bcbs) [1],424200,Drugs and druggists sundries,424210,Drugs and Druggists' Sundries Merchant Wholesalers
+580431,Vision care insurance (not BCBS),621300,Healthcare practitioners (except physicians and dentists),621320,Offices of Optometrists
+580432,Vision Care Ins (Bcbs) [1],621300,Healthcare practitioners (except physicians and dentists),621320,Offices of Optometrists
+580441,Oth Sngle Srvc Ins (No Bcbs) [1],621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580442,Oth Sngle Srvc Ins (Bcbs) [1],621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580901,Medicare Payments [1],621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580903,Coml Medicare Supplement (No Bcbs) [1],621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580904,Commercial medicare supplement (BCBS),621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580907,Medicare prescription drug premium,424200,Drugs and druggists sundries,424210,Drugs and Druggists' Sundries Merchant Wholesalers
+580908,Medicaid premiums,621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580909,Tricare/military premiums,621400,Outpatient healthcare,621,Ambulatory Health Care Services
+580910,Childrens Health Insurance Program (CHIP) premiums,621400,Outpatient healthcare,621,Ambulatory Health Care Services
+590110,Newspapers,511110,Newspapers,511110,Newspaper Publishers
+590210,Magazines,511120,Magazines and journals,511120,Periodical Publishers
+590220,Books thru book clubs,511130,Books,511130,Book Publishers
+590230,Books not thru book clubs,511130,Books,511130,Book Publishers
+590310,Magazine/Newspaper Subscription,511110,Newspapers,5111,"Newspaper, Periodical, Book, and Directory Publishers"
+590410,"Newspaper, magazine non-subscription",511110,Newspapers,5111,"Newspaper, Periodical, Book, and Directory Publishers"
+590900,Newsletters,5111A0,"Directory, mailing list, and other publishers",511120,Periodical Publishers
+600110,Outboard motors,336612,Boats,336612,Boat Building
+600121,Boat without motor and boat trailers,336612,Boats,336612,Boat Building
+600122,Trail/Oth Attachable Campers,336214,Travel trailer and campers,336214,Travel Trailer and Camper Manufacturing
+600132,Purchase Of Boat With Motor,336612,Boats,336612,Boat Building
+600141,Purchase of motorized camper,336213,Motor homes,336213,Motor Home Manufacturing
+600142,Purchase of other vehicle,336999,Other transportation equipment,336999,All Other Transportation Equipment Manufacturing
+600210,"Athletic gear, game tables, and exercise equipment",339920,Sporting and athletic goods,339920,Sporting and Athletic Goods Manufacturing
+600310,Bicycles,336991,"Motorcycle, bicycle, and parts",336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+600311,"Bike sharing, E-scooters (new UCC Q20192)",336991,"Motorcycle, bicycle, and parts",336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+600315,"Scooters, and other single rider transportation",336991,"Motorcycle, bicycle, and parts",336991,"Motorcycle, Bicycle, and Parts Manufacturing"
+600410,Camping Equipment,339920,Sporting and athletic goods,339920,Sporting and Athletic Goods Manufacturing
+600420,Hunting and fishing equipment,339920,Sporting and athletic goods,339920,Sporting and Athletic Goods Manufacturing
+600430,Winter sports equipment,339920,Sporting and athletic goods,339920,Sporting and Athletic Goods Manufacturing
+600901,Winter Sport Equipment,339920,Sporting and athletic goods,339920,Sporting and Athletic Goods Manufacturing
+600902,Other Sport Equipment,339920,Sporting and athletic goods,339920,Sporting and Athletic Goods Manufacturing
+600903,Global Positioning System Device,334220,Wireless communications,334220,Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing
+610110,"Toys, games, arts and crafts, and tricycles",339930,"Dolls, toys, and games",339930,"Doll, Toy, and Game Manufacturing"
+610120,Playground equipment,339920,Sporting and athletic goods,339920,Sporting and Athletic Goods Manufacturing
+610130,Musical instruments and accessories,339930,"Dolls, toys, and games",339930,"Doll, Toy, and Game Manufacturing"
+610140,Stamp and coin collecting,339930,"Dolls, toys, and games",339930,"Doll, Toy, and Game Manufacturing"
+610210,Film,512100,Movies and film,5121,Motion Picture and Video Industries
+610220,Other Photographic Supplies,333316,Photography and photocopying equipment,333316,Photographic and Photocopying Equipment Manufacturing
+610230,Photographic equipment,333316,Photography and photocopying equipment,333316,Photographic and Photocopying Equipment Manufacturing
+610310,Pet Food,311111,Dog and cat food,311111,Dog and Cat Food Manufacturing
+610320,"Pet purchase, supplies, medicine",424A00,Other nondurable goods merchant wholesalers,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers
+610900,"Recreation expenses, out-of-town trips",452000,General merchandise stores,423910,Sporting and Recreational Goods and Supplies Merchant Wholesalers
+610901,Fireworks,452000,General merchandise stores,423920,Toy and Hobby Goods and Supplies Merchant Wholesalers
+610902,Souvenirs,452000,General merchandise stores,453220,"Gift, Novelty, and Souvenir Stores"
+610903,Visual Goods,452000,General merchandise stores,4523,"General Merchandise Stores, including Warehouse Clubs and Supercenters"
+620111,"Social, recreation, health club membership",813B00,"Civic, social, professional, and similar organizations",713940,Fitness and Recreational Sports Centers
+620112,Credit card memberships,misc,#N/A,misc,#N/A
+620114,Auto Service Clubs/Gps Services,811100,Vehicle repair,488410,Motor Vehicle Towing
+620115,Shopping Club Memb Fees,452000,General merchandise stores,452311,Warehouse Clubs and Supercenters
+620121,Fees For Participant Sports,711200,Sports,7112,Spectator Sports
+620122,Partic. Sports Out-Of-Town Tri,711200,Sports,7112,Spectator Sports
+620212,"Movie, other admissions, out-of-town trips",512100,Movies and film,512131,Motion Picture Theaters (except Drive-Ins)
+620213,Tkts To Play/Theatr/Opera/Concert,711100,Performances,7111,Performing Arts Companies
+620214,"Movies, parks, museums",512100,Movies and film,7121,"Museums, Historical Sites, and Similar Institutions"
+620215,Tickets to movies,512100,Movies and film,512131,Motion Picture Theaters (except Drive-Ins)
+620216,Tickets to parks or museums,712000,"Museums, historical sites, zoos, and parks",7121,"Museums, Historical Sites, and Similar Institutions"
+620221,Admission to sporting events,711200,Sports,7112,Spectator Sports
+620222,Adm To Sprts Events Out-Of-Tow,711200,Sports,7112,Spectator Sports
+620310,Fees for recreational lessons,611B00,Other educational services,611620,Sports and Recreation Instruction
+620320,Photographer Fees,541920,Photographers,541921,"Photography Studios, Portrait"
+620330,Film Processing,812900,"Pet care, photofinishing, parking and other sundry services",81292,Photofinishing
+620410,Pet services,812900,"Pet care, photofinishing, parking and other sundry services",812910,Pet Care (except Veterinary) Services
+620420,Vet Services,541940,Veterinarians,541940,Veterinary Services
+620510,Admissions Misc,711AS,"Performing arts, spectator sports, museums, and related activities",71,"Arts, Entertainment, and Recreation"
+620610,Misc. Entertainment Services,713,"Amusement facilities, gambling facilities, resort and recreation facilities",713,"Amusement, Gambling, and Recreation Industries"
+620710,Camp Fees,721000,Hotels and campgrounds,712190,Nature Parks and Other Similar Institutions
+620810,Ren/Rep Sp/Phot/Equp/Passp,812900,"Pet care, photofinishing, parking and other sundry services",81292,Photofinishing
+620903,"Other entertainment services, out-of-town trips",713,"Amusement facilities, gambling facilities, resort and recreation facilities",713,"Amusement, Gambling, and Recreation Industries"
+620904,Rent/Rep Music Instruments,532A00,Consumer goods and general rental centers,532289,All Other Consumer Goods Rental
+620905,Rent/Rep Photo Equip,532A00,Consumer goods and general rental centers,532210,Consumer Electronics and Appliances Rental
+620906,Rental Of Boat,532A00,Consumer goods and general rental centers,532284,Recreational Goods Rental
+620908,Rent/Repair Of Misc Sports Equ,532A00,Consumer goods and general rental centers,532284,Recreational Goods Rental
+620909,Rental of campers on out-of-town trips,532100,Vehicle rental and leasing,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+620912,Rntl Video Cass/Tapes/Discs/Films,532A00,Consumer goods and general rental centers,532282,Video Tape and Disc Rental
+620913,Pinball/Electronic Video Games,532A00,Consumer goods and general rental centers,532282,Video Tape and Disc Rental
+620915,Sport Veh Rental,532100,Vehicle rental and leasing,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+620917,Rental Of Video Hardwr/Accessor,532A00,Consumer goods and general rental centers,532210,Consumer Electronics and Appliances Rental
+620918,Rental Of Video Software,532A00,Consumer goods and general rental centers,532282,Video Tape and Disc Rental
+620919,Rental Other Vehicles On Trips,532100,Vehicle rental and leasing,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+620921,Rental Of Motor Home,532100,Vehicle rental and leasing,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+620922,Rental Of Other Rvs,532100,Vehicle rental and leasing,532120,"Truck, Utility Trailer, and RV (Recreational Vehicle) Rental and Leasing"
+620925,Miscellaneous fees,misc,#N/A,misc,#N/A
+620926,Lotteries and pari-mutuel losses,713200,Gambling establishments (except casino hotels),7132,Gambling Industries
+620930,Online gaming services,519130,Internet publishing and broadcasting,519130,Internet Publishing and Broadcasting and Web Search Portals
+630110,Cigarettes,312200,Tobacco products,312230,Tobacco Manufacturing
+630210,Other tobacco products,312200,Tobacco products,312230,Tobacco Manufacturing
+630220,Smoking Accessories,312200,Tobacco products,312230,Tobacco Manufacturing
+630900,Marijuana,312200,Tobacco products,312230,Tobacco Manufacturing
+640110,Hair Care Products,325620,Toiletries,325620,Toilet Preparation Manufacturing
+640120,Non-Elec Articles For The Hair,424A00,Other nondurable goods merchant wholesalers,424210,Drugs and Druggists' Sundries Merchant Wholesalers
+640130,Wigs And Hairpieces,424A00,Other nondurable goods merchant wholesalers,424990,Other Miscellaneous Nondurable Goods Merchant Wholesalers
+640210,"Oral Hygiene Products,Articles",424A00,Other nondurable goods merchant wholesalers,424210,Drugs and Druggists' Sundries Merchant Wholesalers
+640220,Shaving Needs,325620,Toiletries,325620,Toilet Preparation Manufacturing
+640310,"Cosmetics, Perfume, Bath Prep",446000,Health and personal care stores,446120,"Cosmetics, Beauty Supplies, and Perfume Stores"
+640410,"Deod,Fem Hyg, Misc. Pers. Care",446000,Health and personal care stores,446110,Pharmacies and Drug Stores
+640420,Electric personal care appliances,446000,Health and personal care stores,423620,"Household Appliances, Electric Housewares, and Consumer Electronics Merchant Wholesalers"
+640430,Adult diapers,446000,Health and personal care stores,322291,Sanitary Paper Product Manufacturing
+650110,Personal care service for females,812100,Salons and barber shops,8121,Personal Care Services
+650210,Personal care service for males,812100,Salons and barber shops,8121,Personal Care Services
+650310,Personal care services,812100,Salons and barber shops,8121,Personal Care Services
+650900,Repair Of Pers. Care App.,446000,Health and personal care stores,811490,Other Personal and Household Goods Repair and Maintenance
+660000,"School supplies, etc. - unspecified",423400,Professional and commercial equipment and supplies,453210,Office Supplies and Stationery Stores
+660110,School Bk/Supl/Equip For College,423400,Professional and commercial equipment and supplies,453210,Office Supplies and Stationery Stores
+660210,School Bk/Supl/Equip For Elem/Hs,423400,Professional and commercial equipment and supplies,453210,Office Supplies and Stationery Stores
+660410,"School books, supplies, equipment for vocational and",423400,Professional and commercial equipment and supplies,453210,Office Supplies and Stationery Stores
+660901,"School books, supplies, equipment for day care, nursery",423400,Professional and commercial equipment and supplies,453210,Office Supplies and Stationery Stores
+660902,"School books, supplies, equipment for other schools",423400,Professional and commercial equipment and supplies,453210,Office Supplies and Stationery Stores
+670110,College tuition,611A00,"Colleges, universities, junior colleges, and professional schools",611310,"Colleges, Universities, and Professional Schools"
+670210,Elementary and high school tuition,611100,Elementary and secondary schools,611110,Elementary and Secondary Schools
+670310,"Day care centers, nursery, and preschools",624400,Child day care,624410,Child Day Care Services
+670410,Voc/ Tech School Tuition,611B00,Other educational services,6115,Technical and Trade Schools
+670901,Other schools tuition,611B00,Other educational services,6116,Other Schools and Instruction
+670902,Other school expenses including rentals,611B00,Other educational services,453210,Office Supplies and Stationery Stores
+670903,"Test preparation, tutoring services",611B00,Other educational services,611691,Exam Preparation and Tutoring
+680110,Legal fees,541100,Legal services,541110,Offices of Lawyers
+680140,Funeral Expense,812200,Funerary services,812210,Funeral Homes and Funeral Services
+680210,Safe Deposit Box Rental,493000,Warehousing,493110,General Warehousing and Storage
+680220,Check Accts / Oth Bank Serv Chgs,522A00,Nondepository credit intermediation and related activities,522120,Savings Institutions
+680310,Live entertainment for catered affairs,711100,Performances,711130,Musical Groups and Artists
+680320,Rental Of Party Supp Cat Affairs,532A00,Consumer goods and general rental centers,532289,All Other Consumer Goods Rental
+680901,"Cemetery lots, vaults, maintenance fees",812200,Funerary services,812220,Cemeteries and Crematories
+680902,Accounting Fees,541200,"Accounting, tax preparation, bookkeeping, and payroll",541211,Offices of Certified Public Accountants
+680903,Misc. Pers. Services,812900,"Pet care, photofinishing, parking and other sundry services",8129,Other Personal Services
+680904,Dating services,812900,"Pet care, photofinishing, parking and other sundry services",812990,All Other Personal Services
+680905,Vacation Clubs,561500,Travel arrangement and reservation,5615,Travel Arrangement and Reservation Services
+690111,Compter/Compter Hrdwar N-Bus Use,334111,Computers,334111,Electronic Computer Manufacturing
+690113,Repair of computer systems for nonbusiness use,811200,Electronic equipment repair and maintenance,811212,Computer and Office Machine Repair and Maintenance
+690114,Computer Information Services,541512,Computer systems design,541512,Computer Systems Design Services
+690116,Internet services away from home,519130,Internet publishing and broadcasting,519130,Internet Publishing and Broadcasting and Web Search Portals
+690117,Portable memory,334112,Computer storage device readers,334112,Computer Storage Device Manufacturing
+690118,Digital book readers,334112,Computer storage device readers,334112,Computer Storage Device Manufacturing
+690119,Computer Software,511200,Software,511210,Software Publishers
+690120,Computer Accessories,334118,Computer terminals and other computer peripheral equipment,334118,Computer Terminal and Other Computer Peripheral Equipment Manufacturing
+690230,Business equipment for home use,333318,Other commercial and service industry machinery,333318,Other Commercial and Service Industry Machinery Manufacturing
+690244,Other household appliances (renter),423600,Household appliances and electrical and electronic goods,3352,Household Appliance Manufacturing
+690245,Other household appliances (owned home),423600,Household appliances and electrical and electronic goods,3352,Household Appliance Manufacturing
+690310,Installation of computer,811200,Electronic equipment repair and maintenance,238210,Electrical Contractors and Other Wiring Installation Contractors
+690320,Installation For Tvs,811200,Electronic equipment repair and maintenance,238210,Electrical Contractors and Other Wiring Installation Contractors
+690330,Installation of satellite television equipment,811200,Electronic equipment repair and maintenance,238210,Electrical Contractors and Other Wiring Installation Contractors
+690340,Installation Of Sound Systems,811200,Electronic equipment repair and maintenance,238210,Electrical Contractors and Other Wiring Installation Contractors
+690350,Install Of Other Video/Sound Syst,811200,Electronic equipment repair and maintenance,238210,Electrical Contractors and Other Wiring Installation Contractors
+700110,"Life, endowment, annuity, other personal insurance",524113,Direct life insurance carriers,524113,Direct Life Insurance Carriers
+790240,Food and non alcoholic beverages,food,Food and non alcoholic beverages,311,Food Manufacturing
+790330,"Beer, wine, other alcohol",alcohol,"Beer, wine, other alcohol",3121,Beverage Manufacturing
+790410,"Meals at restaurants, carry-outs and other",722,Food and beverage establishments,7225,Restaurants and Other Eating Places
+790420,"Alcoholic beverages at restaurants, taverns",722,Food and beverage establishments,7224,Drinking Places (Alcoholic Beverages)
+790430,School lunches,722A00,All other food and drinking places,722514,"Cafeterias, Grill Buffets, and Buffets"
+790600,Expenses for other properties,531HST,Tenant-occupied housing,531120,Lessors of Nonresidential Buildings (except Miniwarehouses)
+790690,Construction materials for jobs not started,230302,Residential building repair and maintanence,236,Construction of Buildings
+800111,Alimony expenditures,transfer,#N/A,transfer,#N/A
+800121,Child support expenditures,transfer,#N/A,transfer,#N/A
+800700,Meals as pay,722A00,All other food and drinking places,722514,"Cafeterias, Grill Buffets, and Buffets"
+800710,Rent As Pay,531HST,Tenant-occupied housing,531110,Lessors of Residential Buildings and Dwellings
+800804,Support for college students,transfer,#N/A,transfer,#N/A
+800811,"Gift to non-CU members of stocks, bonds, and mutual fund",transfer,#N/A,transfer,#N/A
+800821,Cash contributions to charities and other organizations,transfer,#N/A,transfer,#N/A
+800831,"Cash contributions to church, religious organizations",transfer,#N/A,transfer,#N/A
+800841,Cash contribution to educational institutions,transfer,#N/A,transfer,#N/A
+800851,Cash contribution to political organizations,transfer,#N/A,transfer,#N/A
+800861,Other cash gifts,transfer,#N/A,transfer,#N/A
+810400,Gifts of out of town trip expenses,452000,General merchandise stores,453220,"Gift, Novelty, and Souvenir Stores"
+850300,Other vehicle finance charges,misc,#N/A,misc,#N/A
+860100,Amt Auto Sold Or Reimbursed,misc,#N/A,misc,#N/A
+860200,Amt Truck Sold Or Reimbursed,misc,#N/A,misc,#N/A
+860301,Amt Motor Home Sold/Reimb,misc,#N/A,misc,#N/A
+860302,Amt Oth Vehicle Sold/Reimb,misc,#N/A,misc,#N/A
+860500,Amt Motorcycle Sold/Reim,misc,#N/A,misc,#N/A
+860600,Amt Boat With Motor Sold/Reim,misc,#N/A,misc,#N/A
+860800,Amt Plane Sold/Reim,misc,#N/A,misc,#N/A
+880110,"Interest paid, home equity line of credit",misc,#N/A,misc,#N/A
+880310,"Interest paid, home equity line of credit",misc,#N/A,misc,#N/A
+900002,Occupational expenses,misc,#N/A,misc,#N/A
+910050,Rental Equivalence Of Owned Home,531HST,Tenant-occupied housing,531110,Lessors of Residential Buildings and Dwellings
+910101,Rent Equiv Vac Home Not Avail Rnt,721000,Hotels and campgrounds,531110,Lessors of Residential Buildings and Dwellings
+910102,Rent Equiv Vac Home Avail For Rnt,721000,Hotels and campgrounds,531110,Lessors of Residential Buildings and Dwellings
+910103,Rental Equivalence For Timeshares,721000,Hotels and campgrounds,531110,Lessors of Residential Buildings and Dwellings
+950024,Vehicle personal property taxes,taxes,#N/A,taxes,#N/A
+990920,"Materials for additions, finishing basements,",230302,Residential building repair and maintanence,236118,Residential Remodelers
+990930,"Materials to finish basement, remodel rooms or",230302,Residential building repair and maintanence,236118,Residential Remodelers
