@@ -426,20 +426,27 @@ figcaption {
   color: var(--muted);
 }
 
-.paper-abstract summary {
-  width: max-content;
+.paper-abstract-toggle {
+  margin: 0;
+  padding: 0;
+  border: 0;
   color: var(--accent-dark);
+  background: none;
   cursor: pointer;
-  font-size: 0.9rem;
-  font-weight: 750;
+  font: inherit;
+  font-weight: inherit;
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
 }
 
-.paper-abstract summary::marker {
+.paper-abstract-toggle:hover {
   color: var(--warm);
 }
 
-.paper-abstract[open] summary {
-  margin-bottom: 0.55rem;
+.paper-abstract-toggle:focus-visible {
+  outline: 2px solid var(--warm);
+  outline-offset: 0.2rem;
 }
 
 .research-item .paper-abstract p {
