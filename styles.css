@@ -420,6 +420,34 @@ figcaption {
   margin: 0.25rem 0;
 }
 
+.paper-abstract {
+  max-width: 78ch;
+  margin-top: 0.8rem;
+  color: var(--muted);
+}
+
+.paper-abstract summary {
+  width: max-content;
+  color: var(--accent-dark);
+  cursor: pointer;
+  font-size: 0.9rem;
+  font-weight: 750;
+}
+
+.paper-abstract summary::marker {
+  color: var(--warm);
+}
+
+.paper-abstract[open] summary {
+  margin-bottom: 0.55rem;
+}
+
+.research-item .paper-abstract p {
+  margin: 0;
+  font-size: 0.92rem;
+  line-height: 1.65;
+}
+
 .research-title {
   color: var(--ink);
   font-family: Georgia, "Times New Roman", serif;
