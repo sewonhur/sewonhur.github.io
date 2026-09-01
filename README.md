@@ -18,5 +18,8 @@ Push the contents of this directory to the root of a GitHub repository, enable G
 
 ## Updating the CV
 
-Replace `assets/Sewon-Hur-CV.pdf` with the new PDF, keeping the filename unchanged.
+The CV is served from **two** locations — both are linked externally, so replace both with the new PDF, keeping the filenames unchanged:
+
+- `assets/Sewon-Hur-CV.pdf` (linked from the site navigation)
+- `personal/CV.pdf` (legacy URL from the previous site)
 

@@ -18,13 +18,14 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 90px;
 }
 
 body {
   margin: 0;
   color: var(--ink);
   background: var(--paper);
-  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-size: 17px;
   line-height: 1.68;
   text-rendering: optimizeLegibility;
@@ -62,8 +63,13 @@ img {
 }
 
 .site-header {
+  position: sticky;
+  z-index: 50;
+  top: 0;
   border-bottom: 1px solid rgba(23, 36, 47, 0.1);
   background: rgba(251, 250, 247, 0.94);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
 }
 
 .nav-wrap {
@@ -445,11 +451,6 @@ figcaption {
   color: var(--warm);
 }
 
-.paper-abstract-toggle:focus-visible {
-  outline: 2px solid var(--warm);
-  outline-offset: 0.2rem;
-}
-
 .research-item .paper-abstract p {
   margin: 0;
   font-size: 0.92rem;
@@ -554,10 +555,6 @@ figcaption {
   overflow-wrap: anywhere;
 }
 
-.name-grid span {
-  color: var(--muted);
-}
-
 .prose-page {
   max-width: 980px;
 }
@@ -647,7 +644,7 @@ blockquote {
 blockquote cite {
   display: block;
   margin-top: 0.7rem;
-  font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+  font-family: ui-sans-serif, system-ui, sans-serif;
   font-size: 0.8rem;
   font-style: normal;
 }
@@ -694,7 +691,7 @@ blockquote cite {
 }
 
 :focus-visible {
-  outline: 3px solid rgba(9, 107, 114, 0.38);
+  outline: 3px solid var(--accent-sub);
   outline-offset: 3px;
 }
 
