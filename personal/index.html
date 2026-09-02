@@ -33,6 +33,13 @@
     <section class="research-section" aria-labelledby="coauthors">
       <p class="eyebrow">Collaborators</p>
       <h2 id="coauthors">My amazing coauthors</h2>
+      <figure class="snapshot">
+        <img id="snapshot-img" src="/assets/coauthors/saet-rio-tim.jpg" width="1400" height="933" loading="lazy" alt="Timothy Kehoe in a panama hat talking with Sewon Hur at the SAET conference">
+        <figcaption>
+          <span id="snapshot-caption" aria-live="polite">With Timothy Kehoe at SAET, Rio de Janeiro, 2026.</span>
+          <button id="snapshot-next" class="snapshot-next" type="button">Show another →</button>
+        </figcaption>
+      </figure>
       <div class="name-grid">
         <a href="https://www.jasturias.com/index.html">Jose Asturias</a>
         <a href="https://sites.google.com/site/elisabelfiori/home">Elisa Belfiori</a>
@@ -52,5 +59,36 @@
     </section>
   </main>
   <footer class="site-footer"><div class="container footer-wrap"><span>© 2026 Sewon Hur</span><span><a href="mailto:sewonhur@yonsei.ac.kr">Email</a> · <a href="https://scholar.google.com/citations?user=Eo81yaMAAAAJ&amp;hl=en">Google Scholar</a></span></div></footer>
+  <script>
+    (() => {
+      const snapshots = [
+        {src: "saet-rio-tim.jpg", w: 1400, h: 933, pos: "center", caption: "With Timothy Kehoe at SAET, Rio de Janeiro, 2026.", alt: "Timothy Kehoe in a panama hat talking with Sewon Hur at the SAET conference"},
+        {src: "saet-rio-dinner.jpg", w: 1400, h: 933, pos: "center", caption: "Dinner with Illenin Kondo at SAET, Rio de Janeiro, 2026.", alt: "Illenin Kondo laughing at a conference dinner table"},
+        {src: "world-congress-seoul.jpg", w: 1386, h: 1400, pos: "center 55%", caption: "Econometric Society World Congress, Seoul, 2025.", alt: "Group of economists posing at night on a neon-lit street in Seoul"},
+        {src: "target-field.jpg", w: 1050, h: 1400, pos: "center 55%", caption: "Twins game at Target Field with Timothy Kehoe, 2026.", alt: "Selfie with Timothy Kehoe and friends in the stands at Target Field"},
+        {src: "cleveland-game.jpg", w: 1400, h: 1270, pos: "center 45%", caption: "Guardians–Twins game in Cleveland, with Daniel Carroll, Dirk Krueger, and friends.", alt: "Row of smiling economists in the stands at a baseball game in Cleveland"},
+        {src: "sed-madison-lunch.jpg", w: 1400, h: 1050, pos: "center 40%", caption: "Lunch on the lake at the SED meetings, Madison, 2022.", alt: "Group selfie over boxed lunches on a lakeside terrace in Madison"},
+        {src: "sed-madison-group.jpg", w: 1400, h: 1050, pos: "center 30%", caption: "SED meetings, Madison, 2022.", alt: "Five economists with conference badges smiling in front of a stone wall"}
+      ];
+      const img = document.getElementById("snapshot-img");
+      const cap = document.getElementById("snapshot-caption");
+      const btn = document.getElementById("snapshot-next");
+      const show = (n) => {
+        const s = snapshots[n];
+        img.src = "/assets/coauthors/" + s.src;
+        img.width = s.w;
+        img.height = s.h;
+        img.alt = s.alt;
+        img.style.objectPosition = s.pos;
+        cap.textContent = s.caption;
+      };
+      let i = Math.floor(Math.random() * snapshots.length);
+      show(i);
+      btn.addEventListener("click", () => {
+        i = (i + 1) % snapshots.length;
+        show(i);
+      });
+    })();
+  </script>
 </body>
 </html>

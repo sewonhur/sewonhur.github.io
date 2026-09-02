@@ -433,7 +433,8 @@ figcaption {
   color: var(--muted);
 }
 
-.paper-abstract-toggle {
+.paper-abstract-toggle,
+.snapshot-next {
   margin: 0;
   padding: 0;
   border: 0;
@@ -447,8 +448,34 @@ figcaption {
   text-underline-offset: 0.18em;
 }
 
-.paper-abstract-toggle:hover {
+.paper-abstract-toggle:hover,
+.snapshot-next:hover {
   color: var(--warm);
+}
+
+.snapshot {
+  max-width: 680px;
+  margin: 0 0 2.25rem;
+}
+
+.snapshot img {
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  border-radius: 0.35rem;
+  background: var(--line);
+  object-fit: cover;
+}
+
+.snapshot figcaption {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.35rem 1rem;
+}
+
+.snapshot-next {
+  white-space: nowrap;
+  font-size: inherit;
 }
 
 .research-item .paper-abstract p {
